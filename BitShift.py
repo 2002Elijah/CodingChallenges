@@ -33,10 +33,3 @@ def shift_to_right(num, shiftBy):
     integer = int(binary, 2)
 
     return integer
-
-print(shift_to_right(80,3))
-#print(shift_to_right(-24,3))
-#print(shift_to_right(-5, 1))
-print(shift_to_right(4666, 6))
-print(shift_to_right(3777, 6))
-#print(shift_to_right(-512, 10))  
